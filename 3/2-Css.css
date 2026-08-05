@@ -1,9 +1,9 @@
 body{
-    background-image: url(../IMG/114067803057427637.jpeg);
+    background-image: url(../IMG/Cyberpunk.jpeg);
 }
 
 
 p{
-    opacity: 50%;
-    color: white;
+    opacity: 100%;
+    color: rgb(255, 255, 255);
 }
