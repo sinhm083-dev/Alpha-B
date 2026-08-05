@@ -2,10 +2,20 @@ body{
     background-image: url(../IMG/Cyberpunk.jpeg);
 }
 
-logo{
+
+
+
+.narbar{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+/* 
+.logo{
     width: 10px;
     height: 10px;
+} */
+
+li{
+    color: white;
 }
-
-
-
